@@ -37,9 +37,11 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
+
+```
 NAME : KARTHICK KISHORE T
 REG NO. : 212223220042
-```
+
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
