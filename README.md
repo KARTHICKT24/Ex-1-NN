@@ -39,7 +39,7 @@ STEP 6:Splitting the data into test and train<BR>
 ##  PROGRAM:
 NAME : KARTHICK KISHORE T
 REG NO. : 212223220042
-
+```
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -79,8 +79,7 @@ print(x_train)
 print(len(x_train))
 print(x_test)
 print(len(x_test))
-
-
+```
 
 ## OUTPUT:
 ![nn1](https://github.com/user-attachments/assets/e046a133-7eaa-43a8-bb42-8af3f7eee73e)
